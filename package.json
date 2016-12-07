@@ -1,6 +1,6 @@
 {
   "name": "epsg",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "List of all EPSG definitions from Proj4JS, adapted from proj4js-defs.",
   "main": "index.js",
   "scripts": {
