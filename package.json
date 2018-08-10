@@ -1,12 +1,11 @@
 {
   "name": "epsg",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "List of all EPSG definitions from Proj4JS, adapted from proj4js-defs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repo": "https://github.com/stevage/epsg",
+  "repository": "github:stevage/epsg",
   "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
   "license": "Apache-2.0"
 }
