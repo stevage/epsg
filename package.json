@@ -1,10 +1,9 @@
 {
   "name": "epsg",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "List of all EPSG definitions from Proj4JS, adapted from proj4js-defs.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": "github:stevage/epsg",
   "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
   "license": "Apache-2.0"
