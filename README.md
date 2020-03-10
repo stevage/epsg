@@ -2,6 +2,8 @@
 
 This library is just a convenient container of as many EPSG definitions of possible. For when "just make it work" is more important than saving bytes.
 
+Note: [epsg-index](https://www.npmjs.com/package/epsg-index) is probably a better alternative in most cases.
+
 Usage:
 
 ```
